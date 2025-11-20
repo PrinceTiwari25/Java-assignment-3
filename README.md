@@ -1,4 +1,4 @@
-#Student Result Management System – Java (Assignment 3)
+Student Result Management System – Java (Assignment 3)
 
 Overview
 
